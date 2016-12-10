@@ -1,4 +1,6 @@
-# satzung-ffnord-verein
+# Offene Netze Nord e.V.
+Die Webseite des Vereins.
+
 Unter Downloads befindet sich er Mitgliedsantrag als Latex dokument. Um Latex minimal zu installieren folgendes:
 
 #Install texlive
