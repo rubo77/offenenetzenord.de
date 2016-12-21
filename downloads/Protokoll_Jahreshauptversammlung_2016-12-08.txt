@@ -1,0 +1,67 @@
+﻿Protokoll der Jahreshauptversammlung 2016 des "Vereins Offene Netze Nord"
+=========================================================================
+
+Am 8.12.2016 um 18:00 Uhr kamen sechs Personen im online Chatraum zusammen
+(Anwesenheitsliste siehe unten), 
+
+Es wurde festgestellt, dass sämtliche Mitglieder ordungsgemäß geladen wurden, 
+die Mehrzahl der Mitglieder erschienen und die Mitgliederversammlung
+beschlußfähig ist.
+
+Ruben Barkow wurde zum Versammlungsleiter und Protokollführer gewählt; Ruben
+Barkow nahmen die Wahl an.
+
+
+1) Neuwahl eines Kassenwarts
+
+Nils Schneider hat ja angekündigt, dass er das Amt des Kassenwarts nicht mehr
+ausführen will.
+
+Gewählt mit 6 von 6 Stimmen dafür, keine Gegenstimme:
+Die neuen Kassenwärter sind Felix von Courten und Ruben Barkow.
+
+2) Konto
+Ein neues Konto ist in Arbeit, das Konto ist beantragt, wenn Nils sich nicht
+bereiterklärt das alte Konto an die neuen Kassenwärter zu übertragen, dann wird
+das neue fertiggestellt.
+
+Nils wird von Stefan gefragt.
+
+3) Es wurde über Fördermöglichkeiten von Projekten gesprochen.
+
+4) Jahresabschlusses 2016
+
+    175€ (eingegangen von Ruben 70€, Sven 70€, Robert 35€)
+
+5) Mitgliedsantrags-Formular
+
+Das Formular der Toppoint wird angepasst:
+https://www.toppoint.de/~wklaebe/Formulare/Mitgliedsantrag.tex
+    
+Ergebnis:
+    https://github.com/rubo77/offenenetzenord.de/blob/master/downloads/Mitgliedsantrag.pdf
+
+6) Gebührenordnung
+    https://github.com/rubo77/offenenetzenord.de/blob/master/downloads/Gebührenordnung.pdf
+    
+    Diese wurde entwickelt im Pad auf https://pads.ccc.de/gebuehrenordnung-ONN:
+
+    "... Der jährliche Mitgliedsbeitrag beträgt für natürliche Personen 35 EUR
+    pro Jahr und für juristische Personen: 70 EUR..."
+
+    angenommen mit 6 von 6 Stimmen
+
+7) BFWA Richtfunk: wir wollen als ONN einen Antrag stellen auf 4W Richtfunk
+
+Der Versammlungsleiter schloss die Versammlung um 21:15 Uhr.
+
+Kiel, 8. November 2016
+
+Anwesenheitsliste
+=================
+Barkow, Ruben
+Gernot Miklós
+von Courten, Felix 
+Eichhorst, Stefan
+Jacobsen, Robert
+Thomsen, Sven
